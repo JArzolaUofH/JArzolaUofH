@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<br>### Hi, I'm Justine!<br>:speech_balloon:<br><br>:cherry_blossom: Junior Developer and tech enthusiast sharing about my journey and learnings in tech<br/><br>:school_satchel: Studied Computer Information Systems at the University of Houston<br/><br> :sparkles:Currently working on perfecting my fullstack range</br><br>:fast_forward: Actively seeking to advance my projects</br><br>:link:Find Me on [Linkedin](www.linkedin.com/in/justine-arzola-0051a726b)!</br>
+<br>### Hi, I'm Justine!<br>:speech_balloon:<br><br>:cherry_blossom: Junior Developer and tech enthusiast sharing about my journey and learnings in tech<br/><br>:school_satchel: Studied Computer Information Systems at the University of Houston<br/><br> :sparkles:Currently working on perfecting my fullstack range</br><br>:fast_forward: Actively seeking to advance my projects</br><br>:link:Find Me on [Linkedin](www.linkedin.com/in/justine-arzola-0051a726b)! or :link: My [Personal Site](https://main--dulcet-stroopwafel-3324ec.netlify.app)</br>
 
 
 # 💻 Tech Stack:
